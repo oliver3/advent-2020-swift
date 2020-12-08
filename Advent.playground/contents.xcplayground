@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='2020-01'/>
+        <page name='2020-02'/>
+        <page name='2020-03'/>
+        <page name='2020-04'/>
+        <page name='2020-05'/>
+        <page name='2020-06'/>
+        <page name='2020-07'/>
+        <page name='2020-08'/>
+    </pages>
+</playground>
